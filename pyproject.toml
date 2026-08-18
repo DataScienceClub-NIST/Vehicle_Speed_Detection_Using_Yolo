@@ -1,0 +1,12 @@
+[project]
+name = "automatic-number-plate-detection-using-yolo-and-ocr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "opencv-python>=5.0.0.93",
+    "streamlit>=1.61.1",
+    "supervision>=0.30.0",
+    "ultralytics>=8.4.121",
+]
